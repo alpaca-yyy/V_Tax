@@ -155,7 +155,7 @@ def read_write_sheet(readworksheet1,readworksheet2):
     elif time == '第四期':
        whichseason = 4
     elif time == '第五期':
-       whichseason = 4
+       whichseason = 5
     else:
        print("时期不在第一期和第五期之间！")
 
