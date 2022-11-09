@@ -55,11 +55,11 @@ B列 公司全称（**需要能和企业上交的报表中编制单位对得上*
 
 #### 其他可能会出现的种种bug/错误 之后再细说
 
-![image-20221108132329691](E:\Documents\GitHub\V_Tax\README\image-20221108132329691.png)
+![error1](http://lychee.alpacayyy.top:3801/uploads/big/aaa8a324efbad6ce5ee24c1c9b578ba3.png)
 
 初始化表中的企业名后面有个空格
 
-![image-20221108132344622](E:\Documents\GitHub\V_Tax\README\image-20221108132344622.png)
+![error2](http://lychee.alpacayyy.top:3801/uploads/big/228816e4bb0f1074c562ae44ba200413.png)
 
 企业上交的报表中没有 “纳税”关键字 程序没有正确为excel改名
 
